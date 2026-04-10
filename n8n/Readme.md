@@ -4,8 +4,8 @@ Ready-made n8n workflows for AI + automation.
 
 ## 📂 Workflows
 
-- `workflows/instagram_content.json` – Turn ideas into IG post drafts and send them to a Google Sheet.
-- `workflows/lead_followup.json` – Example: trigger AI email follow-ups from form submissions.
+- `workflows/Fullstack.json` – Connect n8n with Lovable/Bolt/etc
+- `workflows/email_classifier.json` – Decluttering emails into segments or deleting depending on the email category
 
 ## 🧪 Import into n8n
 
