@@ -386,5 +386,5 @@ This project is licensed under the MIT License.
 ---
 
 <p align="center">
-  <em>Built with ❤️ by <a href="https://github.com/ishandutta0098">Ishan Dutta</a></em>
+  <em>Built with ❤️ by <a href="https://github.com/programs-outskill">Outskill</a></em>
 </p>
